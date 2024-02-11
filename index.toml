@@ -9,10 +9,6 @@ file = "_config.yml"
 hash = "dec13be539a179dc9ba0ad8997be51a13044711195406ecafb0fe61cf1fea083"
 
 [[files]]
-file = "index.hmtl"
-hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
-
-[[files]]
 file = "mods/advancement-plaques.pw.toml"
 hash = "945ceb14e94115ed5dcc77b0e7aed6340e034e4e07aa4ca2a542ac9d12827f5c"
 metafile = true
