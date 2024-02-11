@@ -1,0 +1,13 @@
+name = "AmbientSounds Remastered Sounds Pack"
+filename = "AmbientSounds5 R1.1.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "b256dc95fb22d7976cd35b81288392d217e8549e"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5035935
+project-id = 962696
