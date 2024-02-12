@@ -194,6 +194,11 @@ hash = "7dc3c3b0b99843a19a55ec0333554b7d406de1380b5263864714c88c157b49c9"
 metafile = true
 
 [[files]]
+file = "mods/oculus.pw.toml"
+hash = "ad5ea7db099e46fb75851c3ec91393256006c78e55eb4615ca7c764f1668e2e8"
+metafile = true
+
+[[files]]
 file = "mods/playeranimator.pw.toml"
 hash = "0a2eb7f0b4f837c580350b1105001f43a272ac15868d845cca544d5a5380494f"
 metafile = true
@@ -341,4 +346,14 @@ metafile = true
 [[files]]
 file = "resourcepacks/ambientsounds-remastered-sounds-pack.pw.toml"
 hash = "c5a3205a9a40c62aff6cf559e06934240936ee2fafd9bae0d7d8ba997fc57d00"
+metafile = true
+
+[[files]]
+file = "shaderpacks/complementary-reimagined.pw.toml"
+hash = "17b174cef345aa8512bd7361add5c9704b31fe8ba787dd7e65a8097bada11a82"
+metafile = true
+
+[[files]]
+file = "shaderpacks/complementary-unbound.pw.toml"
+hash = "a6abfa266c4e0aebf5fc8e640768baedb08e7cdadbf7e1b209561be82d5fa9b6"
 metafile = true
