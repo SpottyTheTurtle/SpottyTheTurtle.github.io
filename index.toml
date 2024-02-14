@@ -49,8 +49,8 @@ hash = "ae8cbf0fe7b220e110932056e448ca4464b689f4d4cf8e2e435fb1acba86908f"
 metafile = true
 
 [[files]]
-file = "mods/camps-castles-carriages.pw.toml"
-hash = "c78f015e19a9fdc3f7d76f86c9c8a2cb52723ac4d8533483425a8e4d179ad85c"
+file = "mods/camps_castles_carriages.pw.toml"
+hash = "bb9c1f87b28becc6e6554628767fd2036bd91ed024c86414b4d53ef1dc1ac381"
 metafile = true
 
 [[files]]
@@ -459,8 +459,8 @@ hash = "20715dfbf9bcbe046340aa01d4a72e25f357be4442b7f5e36200976140671399"
 metafile = true
 
 [[files]]
-file = "mods/waveycapes.pw.toml"
-hash = "cdc608503fd2d21242d326de350ec8a191e49f20a14dcef509ad3b2a685e05bd"
+file = "mods/wavey-capes.pw.toml"
+hash = "6b8677362d29aa238f5b74aca85267251d776f2fb764cf792109cdbea7a5aecc"
 metafile = true
 
 [[files]]
