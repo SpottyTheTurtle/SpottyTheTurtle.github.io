@@ -1,0 +1,13 @@
+name = "Camps. Castles. Carriages."
+filename = "camps_castles_carriages-1.1.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "ab0c7a08e02752951392880a0433a98eb74d0628"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4954624
+project-id = 938667
