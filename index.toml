@@ -419,6 +419,11 @@ hash = "6bf66c937c2b712c61c3e9788ffa94f5d7cf85c14bb3d7226482b03c43c94f47"
 metafile = true
 
 [[files]]
+file = "mods/starter-kit.pw.toml"
+hash = "aff3e4eac6de6d2b6661b301e0167b8d2ffe290fdc10c6685e02a6b30a318fbc"
+metafile = true
+
+[[files]]
 file = "mods/swingthroughgrass.pw.toml"
 hash = "ca83d6d210d1d289fc8999c481a778a3edcf4228c9de3d280cfd86012868e30f"
 metafile = true
