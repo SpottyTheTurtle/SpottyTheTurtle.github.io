@@ -170,7 +170,7 @@ metafile = true
 
 [[files]]
 file = "mods/falling-leaves-forge.pw.toml"
-hash = "860fbe14f20d3a7d73e0219317afaab6964e4635c14698db3c7f70cb230a6e6f"
+hash = "4e3cdda41b86f919528e422e6e7781c0c69c89938cf8d25ee0f3518b85938c2f"
 metafile = true
 
 [[files]]
@@ -284,11 +284,6 @@ hash = "f09b2e3e326e3a0c0b45f2ecf4d57908065d915010ccadc16d67c79eb2e9eb4d"
 metafile = true
 
 [[files]]
-file = "mods/mod-name-tooltip.pw.toml"
-hash = "0f37846b5bc38059aad5800e48e22a7d24b915ef553e3241af2b63e9ba864237"
-metafile = true
-
-[[files]]
 file = "mods/moogs-end-structures.pw.toml"
 hash = "21da627d4fea9b048ca892c61549630355e1758259099eccbb39ca3f4478a952"
 metafile = true
@@ -325,7 +320,7 @@ metafile = true
 
 [[files]]
 file = "mods/reauth.pw.toml"
-hash = "da46985b92972295e91b1a3365b79fdd526ce3f7000c56e4975fa63112f57837"
+hash = "71ea9ac031814496a679ede967bbd8db9b765a2725dbfddee7f0b90e653abd38"
 metafile = true
 
 [[files]]
