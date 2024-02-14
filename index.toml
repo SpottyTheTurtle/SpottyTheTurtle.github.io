@@ -139,11 +139,6 @@ hash = "884b7e89c2c7ebea292cb1b3246add7cc5631344a30afc94ebf2a5030e4dfd50"
 metafile = true
 
 [[files]]
-file = "mods/do-a-barrel-roll.pw.toml"
-hash = "469904d37b095f816ea047150be344d5a590728f8710d7b34d187f8017ad04f6"
-metafile = true
-
-[[files]]
 file = "mods/double-doors.pw.toml"
 hash = "2e1c075a0b2f0e8f2731fa1f976c4d5f53ba153c9c53995969429e9afd5edcc1"
 metafile = true
@@ -191,11 +186,6 @@ metafile = true
 [[files]]
 file = "mods/farsight.pw.toml"
 hash = "ec7014ad0aba875229c5a139c22418c1315b1e82d8c511687534f90c0196df18"
-metafile = true
-
-[[files]]
-file = "mods/fast-ip-ping.pw.toml"
-hash = "699b7f0fe6887616c2481fcc01f1db73b5e2b90eeb2ab472c23a9aea6fd11048"
 metafile = true
 
 [[files]]
