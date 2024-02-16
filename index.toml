@@ -44,6 +44,11 @@ hash = "7b33ce740230efe79e8214a5204694e13b5af7d61e6f40bbffa097a637fd2789"
 metafile = true
 
 [[files]]
+file = "mods/building-wands.pw.toml"
+hash = "10df21b71928137330e8c829b444ba3bb04ae9c4ace0160636d1e7375196d346"
+metafile = true
+
+[[files]]
 file = "mods/caelus.pw.toml"
 hash = "ae8cbf0fe7b220e110932056e448ca4464b689f4d4cf8e2e435fb1acba86908f"
 metafile = true
@@ -130,7 +135,7 @@ metafile = true
 
 [[files]]
 file = "mods/diagonal-fences.pw.toml"
-hash = "884b7e89c2c7ebea292cb1b3246add7cc5631344a30afc94ebf2a5030e4dfd50"
+hash = "365546bd0e7a606aa8b4c652a899f54aad4e054607ee65cfae36f74f9fb16085"
 metafile = true
 
 [[files]]
@@ -289,6 +294,11 @@ hash = "21da627d4fea9b048ca892c61549630355e1758259099eccbb39ca3f4478a952"
 metafile = true
 
 [[files]]
+file = "mods/mouse-tweaks.pw.toml"
+hash = "6c5e1d646bee1575bd994996b4428e0fe16c6a0bfc0fbab5c6fa0c8c35547863"
+metafile = true
+
+[[files]]
 file = "mods/mutil.pw.toml"
 hash = "5e2479056133260ff0d3f29f1378567eda68762007f090ceb1839e4a59742885"
 metafile = true
@@ -315,7 +325,7 @@ metafile = true
 
 [[files]]
 file = "mods/puzzles-lib.pw.toml"
-hash = "4792b5508f6583035d60a5d681d1f05bb52acef432fb47f132bcfb1b53d518f6"
+hash = "827b361fcddfa0bdb84bfa0ebf0e1a38b139804c92aaf9e39218d784e4111fb4"
 metafile = true
 
 [[files]]
