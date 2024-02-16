@@ -249,6 +249,11 @@ hash = "a14c2e0b3cb355ba01fe6c646d21a5473ffdf7761a11fe54a59b60ac1633e2cd"
 metafile = true
 
 [[files]]
+file = "mods/iron-chests.pw.toml"
+hash = "755a8345636199e68830426bb03873a2395517d719c82dfb9a349d09fe970ea9"
+metafile = true
+
+[[files]]
 file = "mods/irons-spells-n-spellbooks.pw.toml"
 hash = "47e3acaec2f6d70552e49f0efc14bc25feaf83b8b955b08266f082040eb3b1c2"
 metafile = true
