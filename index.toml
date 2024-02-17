@@ -74,6 +74,11 @@ hash = "73b5ea7c9f0ff8ac9d03bc410bfac63aabe43cf44569b288ccae29d74289112e"
 metafile = true
 
 [[files]]
+file = "mods/chunky-pregenerator-forge.pw.toml"
+hash = "f7b375699fba3e85f38ec4c0c5d6bf19b5004677857ca2e9dad3c6732b2cc1c8"
+metafile = true
+
+[[files]]
 file = "mods/cloth-config.pw.toml"
 hash = "620351b6440c5a97a7ea574f4bba4f1f83b84ce2f908fe31a116406e35fa6c57"
 metafile = true
@@ -246,6 +251,11 @@ metafile = true
 [[files]]
 file = "mods/immersive-paintings.pw.toml"
 hash = "a14c2e0b3cb355ba01fe6c646d21a5473ffdf7761a11fe54a59b60ac1633e2cd"
+metafile = true
+
+[[files]]
+file = "mods/inventory-sorting.pw.toml"
+hash = "c24cdfd72b2bdfc43e9f7ed7f2cc2ab67ef4abfaaaf92f21ebfd373d5163b4c0"
 metafile = true
 
 [[files]]
