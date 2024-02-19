@@ -424,6 +424,11 @@ hash = "f99a8984fa31d8162a5c6a133f490ec69b6928e6899f6b0dd923740ac28d8806"
 metafile = true
 
 [[files]]
+file = "mods/spark.pw.toml"
+hash = "555c2ed7500d7deb9f0dbfbc6a597bfa76ae2a22ccdbe7ab3632cde4278169b4"
+metafile = true
+
+[[files]]
 file = "mods/stack-refill.pw.toml"
 hash = "6bf66c937c2b712c61c3e9788ffa94f5d7cf85c14bb3d7226482b03c43c94f47"
 metafile = true
