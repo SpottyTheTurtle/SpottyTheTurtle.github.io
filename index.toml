@@ -9,6 +9,10 @@ file = "_config.yml"
 hash = "dec13be539a179dc9ba0ad8997be51a13044711195406ecafb0fe61cf1fea083"
 
 [[files]]
+file = "config/jade/hide-entities-1902.json"
+hash = "7d4bbfac65847fd40f7ed1ef81679fa5b4a327f8e6b38e781c61922724fd7196"
+
+[[files]]
 file = "mods/advancement-plaques.pw.toml"
 hash = "945ceb14e94115ed5dcc77b0e7aed6340e034e4e07aa4ca2a542ac9d12827f5c"
 metafile = true
@@ -269,9 +273,8 @@ hash = "755a8345636199e68830426bb03873a2395517d719c82dfb9a349d09fe970ea9"
 metafile = true
 
 [[files]]
-file = "mods/irons-spells-n-spellbooks.pw.toml"
-hash = "47e3acaec2f6d70552e49f0efc14bc25feaf83b8b955b08266f082040eb3b1c2"
-metafile = true
+file = "mods/irons_spellbooks-1.19.2-2.2-SNAPSHOT.jar"
+hash = "074e04f3d4e110d5a92e3ccb3ce2bb8d524c3c65662f08b75418ad27e59231fb"
 
 [[files]]
 file = "mods/jade-addons.pw.toml"
