@@ -273,8 +273,9 @@ hash = "755a8345636199e68830426bb03873a2395517d719c82dfb9a349d09fe970ea9"
 metafile = true
 
 [[files]]
-file = "mods/irons_spellbooks-1.19.2-2.2-SNAPSHOT.jar"
-hash = "074e04f3d4e110d5a92e3ccb3ce2bb8d524c3c65662f08b75418ad27e59231fb"
+file = "mods/irons-spells-n-spellbooks.pw.toml"
+hash = "54327826d9088a319154b3648d7f805bc879f25df75de9e50ce855df8e19bef0"
+metafile = true
 
 [[files]]
 file = "mods/jade-addons.pw.toml"
